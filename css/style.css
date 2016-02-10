@@ -1,0 +1,35 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  color: #000;
+  background-color: #00cc66;
+}
+
+.timer-container {
+  width: 350px;
+  height: 100px;
+  text-align: center;
+  border: 3px solid #000;
+  margin: 0 auto;
+  cursor: pointer;
+  background-color: #ffff00;
+  border-radius: 40px;
+}
+
+#timer {
+  line-height: 20px;
+  font-size: 52px;
+}
+
+#status {
+  text-align: center;
+  font-size: 36px;
+  padding-bottom: 20px;
+}
+
+.numbers {
+  font-size: 32px;
+}
+.clock {
+  text-align: center;
+  font-size: 48px;
+}
